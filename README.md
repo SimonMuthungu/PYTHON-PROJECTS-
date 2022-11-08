@@ -7,4 +7,4 @@ Client personal files are json files. Whenever a client makes a transaction on t
 
 Also, the user can query the system to receive an a transactional history which is something that happens quite often. They can choose to receive it via email which the system sends to  their provided user email well formatted and readable or via whatsapp or printed on the teminal.
 
-I am proud to say that im learning technologies that will enable me to connect this system to an actual database (preferrably postgresql) and create a UI and give it to my friends to experiment with!!
+I am proud to be learning technologies that will enable me to connect this system to an actual database (preferrably postgresql) and create a UI and give it to my friends to experiment with!!
