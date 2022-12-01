@@ -1,5 +1,5 @@
 # This is an Mpesa-alike app that works almost the same as the famous Mpesa program
-# This program was developed only for fun and practice with no illegal intent in mind!
+# It has file writing functionality, Json, smtp to send client data over email etc!
 # You can request for your payment history sent to you over email.
 
 import secrets
